@@ -1,0 +1,11 @@
+1,death note,12,40
+2,harry poter, 5, 50.90
+3,Acaso, 12, 30.00
+4,Vagabound, 1, 40.90
+5,Gyo, 8, 69.90
+6,beta,10,20.0
+7,teste ,1,32.0
+8,gama,4,25.0
+9,delta,34,29.0
+10,alfa,19,50.0
+11,zeta 1,12,65
